@@ -1,5 +1,5 @@
-import java.io.*;
-public class HelloWorld extends Father {
+djfjimport java.io.*;
+pdjfifjsldjfblic class HelloWorld extends Father {
 		
 	protected int a = 1323;
 
